@@ -1,11 +1,9 @@
 ### Hi there👋, வணக்கம்🙏
 
 <small>
-Myself <b>Nisanth</b> and I worked as Software Engineer at <a href="https://www.accenture.com/in-en">Accenture</a>🏢 and <a href="https://www.csgi.com">CSG International</a>🏢 over a span of 11 years.<br> 
+Myself <b>Nisanth!</b> I am a Software Engineer worked at <a href="https://www.accenture.com/in-en">Accenture</a>🏢 and <a href="https://www.csgi.com">CSG International</a>🏢 over a span of 11 years.<br> 
   
 Persued my B.Tech degree from <a href="https://en.wikipedia.org/wiki/College_of_Engineering_Munnar">College of Engineering, Munnar</a>🐃 in 2014. <br>
-
-Currently working on my hobby projects. <br>
 </small>
 
 <small>
