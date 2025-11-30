@@ -10,7 +10,7 @@ Persued my B.Tech degree from <a href="https://en.wikipedia.org/wiki/College_of_
   
 🔭 Learning Philosophy - In the end, it's just ones and zeros. break and eat.<br>
 
-🎯 Expertized in - Can make software systems observable, scalable, reliable and maintainable<br>
+🎯 Expertized in - making software systems observable, scalable, reliable and maintainable<br>
 
 📖 Currently Into - Java, Python, Langchain, NLP, LLM, MCP and RAG<br>
 
