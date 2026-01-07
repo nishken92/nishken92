@@ -12,7 +12,7 @@ Persued my B.Tech degree from <a href="https://en.wikipedia.org/wiki/College_of_
 
 🎯 Expertized in - making software systems observable, scalable, reliable and maintainable<br>
 
-📖 Currently Into - Java, Python, Langchain, NLP, LLM, MCP and RAG<br>
+📖 Currently Into - Java, Springboot, Python, Langchain, NLP, LLM, MCP and RAG<br>
 
 </small>
 
